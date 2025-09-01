@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "b3c05edaed9c1f44",
+    "type": "split",
+    "children": [
+      {
+        "id": "d293a375c0e2bf0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9bab1f01b9c26dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AoC/CLASE 01 - ARQUITECTURA Y ORGANIZACIÓN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CLASE 01 - ARQUITECTURA Y ORGANIZACIÓN"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8fb4b17489dd8df3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0b1165e01039d67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c379aad542acbb84",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ceb245c93fa86a25",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1e039d435a4691c9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4ffa4d7a1e5509bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4ecfdd996ca9bb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f23ee8e6084edb4d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CLASE 01 - ARQUITECTURA Y ORGANIZACIÓN.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for CLASE 01 - ARQUITECTURA Y ORGANIZACIÓN"
+            }
+          },
+          {
+            "id": "9816bc4822580d6d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CLASE 01 - ARQUITECTURA Y ORGANIZACIÓN.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from CLASE 01 - ARQUITECTURA Y ORGANIZACIÓN"
+            }
+          },
+          {
+            "id": "a01b8bdcf69b98da",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c04bd42fc53c2432",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CLASE 01 - ARQUITECTURA Y ORGANIZACIÓN.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of CLASE 01 - ARQUITECTURA Y ORGANIZACIÓN"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e9bab1f01b9c26dc",
+  "lastOpenFiles": [
+    "AoC/Untitled.md",
+    "AoC/CLASE 01 - ARQUITECTURA Y ORGANIZACIÓN.md",
+    "Pasted image 20250831221746.png",
+    "AoC/Pasted image 20250831221825.png",
+    "AoC/Pasted image 20250831210724.png",
+    "ISW/THE PSYCHOPATHOLOGY OF EVERYDAY THINGS.md",
+    "ISW/Pasted image 20250828212229.png",
+    "ISW",
+    "AoC",
+    "Welcome.md"
+  ]
+}
