@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AoC/CLASE 01 - ARQUITECTURA Y ORGANIZACIÓN.md",
+                "file": "AoC/CLASE 02 - HERRAMIENTAS DE DESARROLLO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLASE 01 - ARQUITECTURA Y ORGANIZACIÓN"
+              "title": "CLASE 02 - HERRAMIENTAS DE DESARROLLO"
             }
           }
         ]
@@ -166,18 +166,26 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "e9bab1f01b9c26dc",
   "lastOpenFiles": [
-    "AoC/Untitled.md",
+    "AoC/imgs/Pasted image 20250901113732.png",
+    "AoC/imgs/Pasted image 20250901113221.png",
+    "AoC/imgs/Pasted image 20250901112322.png",
+    "AoC/imgs/Pasted image 20250901111916.png",
+    "AoC/imgs/Pasted image 20250901111847.png",
+    "AoC/imgs/Pasted image 20250831221825.png",
+    "AoC/imgs/Pasted image 20250831210724.png",
+    "Pasted image 20250901113824.png",
+    "AoC/CLASE 02 - HERRAMIENTAS DE DESARROLLO.md",
     "AoC/CLASE 01 - ARQUITECTURA Y ORGANIZACIÓN.md",
-    "Pasted image 20250831221746.png",
-    "AoC/Pasted image 20250831221825.png",
-    "AoC/Pasted image 20250831210724.png",
     "ISW/THE PSYCHOPATHOLOGY OF EVERYDAY THINGS.md",
-    "ISW/Pasted image 20250828212229.png",
+    "ISW/imgs",
+    "AoC/imgs",
+    "Pasted image 20250831221746.png",
+    "ISW/imgs/Pasted image 20250828212229.png",
     "ISW",
     "AoC",
     "Welcome.md"
