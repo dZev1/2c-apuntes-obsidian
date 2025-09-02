@@ -1,4 +1,8 @@
 [
   "obsidian-style-settings",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-icon-folder",
+  "obsidian-latex-suite",
+  "obsidian-annotator",
+  "mathlinks"
 ]

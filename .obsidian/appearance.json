@@ -1,5 +1,9 @@
 {
   "interfaceFontFamily": "",
   "cssTheme": "Catppuccin",
-  "baseFontSize": 20
+  "baseFontSize": 20,
+  "enabledCssSnippets": [
+    "My font"
+  ],
+  "textFontFamily": "Libre Baskerville"
 }
