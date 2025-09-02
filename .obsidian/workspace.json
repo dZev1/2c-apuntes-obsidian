@@ -8,15 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "53ac17d26dfe4577",
+            "id": "e9bab1f01b9c26dc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "AoC/imgs/Pasted image 20250902005729.png"
+                "file": "AoC/CLASE 03 - ARQUITECTURA BÁSICA IA-32 e Intel64.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250902005729"
+              "icon": "lucide-file",
+              "title": "CLASE 03 - ARQUITECTURA BÁSICA IA-32 e Intel64"
             }
           }
         ]
@@ -165,28 +167,27 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "zk-prefixer:Create new unique note": false,
-      "workspaces:Manage workspace layouts": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "53ac17d26dfe4577",
+  "active": "e9bab1f01b9c26dc",
   "lastOpenFiles": [
-    "AoC/CLASE 03 - ARQUITECTURA BÁSICA IA-32 e Intel64.md",
+    "Pasted image 20250902141734.png",
+    "Pasted image 20250902141720.png",
+    "Pasted image 20250902141258.png",
+    "Pasted image 20250902140750.png",
+    "Pasted image 20250902135952.png",
+    "Pasted image 20250902135050.png",
+    "Pasted image 20250902125218.png",
+    "Pasted image 20250902124818.png",
+    "Pasted image 20250902123415.png",
+    "Pasted image 20250902123207.png",
+    "AoC/CLASE ALGO - CACHE!.md",
     "AoC/imgs/Pasted image 20250902005729.png",
-    "Pasted image 20250902004350.png",
-    "AoC/imgs/Pasted image 20250902003843.png",
-    "AoC/imgs/CLASE 03 - ARQUITECTURA IA-32 E INTEL 64.md",
-    "AoC/CLASE 01 - ARQUITECTURA Y ORGANIZACIÓN.md",
+    "AoC/CLASE 03 - ARQUITECTURA BÁSICA IA-32 e Intel64.md",
     "AoC/CLASE 02 - HERRAMIENTAS DE DESARROLLO.md",
+    "AoC/CLASE 01 - ARQUITECTURA Y ORGANIZACIÓN.md",
     "ISW/THE PSYCHOPATHOLOGY OF EVERYDAY THINGS.md",
-    "AoC/imgs/Pasted image 20250901113732.png",
-    "AoC/imgs/Pasted image 20250901113221.png",
-    "AoC/imgs/Pasted image 20250901112322.png",
-    "AoC/imgs/Pasted image 20250901111916.png",
-    "AoC/imgs/Pasted image 20250901111847.png",
-    "AoC/imgs/Pasted image 20250831221825.png",
-    "AoC/imgs/Pasted image 20250831210724.png",
     "ISW/imgs",
     "AoC/imgs",
     "ISW",
